@@ -1,12 +1,12 @@
 
 ### Link to Repository
-](https://github.com/EliyahuYadegari/Fakebook_Server.git)
+https://github.com/EliyahuYadegari/Fakebook_Server.git
 
-### Link to Android Repository- "Faceapp"
-https://github.com/I-am-Shir/Faceapp.git
+### Link to Android Repository- "Fakebook_Android_App"
+https://github.com/EliyahuYadegari/Fakebook_Android_App.git
 
-### Link to Web Repository- "ap_project2_web"
-https://github.com/Shiranle07/ap_project2_web.git
+### Link to Web Repository- "Fakebook_Web"
+https://github.com/EliyahuYadegari/Fakebook_Web.git
 
 Fakebook Server is the backend server for the Fakebook social networking platform. It provides APIs for user authentication, managing posts, interacting with posts (like, comment), managing friendships, and more.
 
